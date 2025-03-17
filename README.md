@@ -14,4 +14,4 @@ This is a Simple FPS Tracker Mod developed for Fabric Minecraft 1.16.1. The 'Mod
 6) Copy The FabricAPI jar file from 'Mod Files' folder and paste it to 'appdata/roaming/minecraft/mods'
 7) Run Minecraft 1.16.1 
 
-Make sure only Minecraft 1.16.1 is launcher using Fabric loader
+Mod only available for Version 1.16.1 as of now
