@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "trackfps",
+	"version": "1.0.0",
+	"name": "TrackFPS",
+	"description": "Simple FPS Tracker developed as First Project",
+	"authors": ["Deva Path"],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/himanshu-jorwal"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/trackfps/FPS.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"net.deva.trackfps.TrackFPS"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.16.1",
+		"java": ">=8",
+		"fabric": "*"
+	}
+}
